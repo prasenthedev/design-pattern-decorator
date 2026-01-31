@@ -1,0 +1,4 @@
+unnamed package
+com.designpatterns.decorator
+com.designpatterns.decorator.components
+com.designpatterns.decorator.decorators

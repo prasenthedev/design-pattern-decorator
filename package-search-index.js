@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.designpatterns.decorator"},{"l":"com.designpatterns.decorator.components"},{"l":"com.designpatterns.decorator.decorators"}];updateSearchResults();
